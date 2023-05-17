@@ -1,0 +1,37 @@
+_repo: A-new-name_70487
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Lutz, Grace Livingston Hill
+    - Livingston, Grace
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: https://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70487'
+language: en
+pgterms:marc905: 20220226072624hill
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bGrosset & Dunlap, $c1925, copyright 1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Christian fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Fugitives from justice -- Fiction'
+- !lcsh 'Traffic accidents -- Fiction'
+- !lcsh 'Anonyms and pseudonyms -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A new name
+url: http://www.gutenberg.org/ebooks/70487
